@@ -1,2 +1,4 @@
 # m12-hw12-lastname-firstname
-Is there a way to randomizes the places when you click the button instead of when the page loads?
+for sorting help: https://www.w3schools.com/js/js_array_sort.asp
+
+I did not have any issues completing this asignment.
